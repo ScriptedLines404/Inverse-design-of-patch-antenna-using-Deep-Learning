@@ -109,8 +109,11 @@ jupyter notebook src/inverse_design_patch_antenna.ipynb
 
 The following plot shows model performance during training:
 
+<img src="img\training_plots.png" alt="Training Plots">
 
-<img src="training_plots.png">
+The following is the output at `localhost: 127.0.0.1:7860` :
+
+<img src="img\training_plots.png" alt="Training Plots">
 
 ## 🧩 Example Code Snippets
 🔹 Load and Use the Trained Model
