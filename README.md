@@ -113,7 +113,7 @@ The following plot shows model performance during training:
 
 The following is the output at `localhost: 127.0.0.1:7860` :
 
-<img src="img\training_plots.png" alt="Training Plots">
+<img src="img\gadio_output.png" alt="Gradio Output">
 
 ## 🧩 Example Code Snippets
 🔹 Load and Use the Trained Model
