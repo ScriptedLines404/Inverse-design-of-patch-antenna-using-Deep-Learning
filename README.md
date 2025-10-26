@@ -11,7 +11,7 @@
 
 ## 🧭 Overview
 
-This project implements a **physics-constrained deep learning framework** for the inverse design of microstrip patch antennas. Traditional antenna design relies on iterative electromagnetic simulations, which are computationally expensive and time-consuming. Our approach uses a neural network trained on synthetic data generated from classical antenna equations to predict optimal antenna dimensions from desired specifications in **real-time**.
+This project implements a **physics-constrained deep learning framework** for the inverse design of patch antennas. Traditional antenna design relies on iterative electromagnetic simulations, which are computationally expensive and time-consuming. Our approach uses a neural network trained on synthetic data generated from classical antenna equations to predict optimal antenna dimensions from desired specifications in **real-time**.
 
 ### 🎯 Key Advantages
 - ⚡ **20x faster** than traditional EM simulations
