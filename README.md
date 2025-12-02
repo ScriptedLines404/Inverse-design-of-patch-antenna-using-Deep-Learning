@@ -207,7 +207,7 @@ The following plot shows model performance during training:
 
 <img src="img\training_plots.png" alt="Training Plots">
 
-The following is the Gradio output at `localhost: 127.0.0.1:7860` / `https://85cba0709ab084d899.gradio.live`:
+The following is the Gradio output at `localhost: 127.0.0.1:7860`:
 
 <img src="img\gradio_output.png" alt="Gradio Output">
 
